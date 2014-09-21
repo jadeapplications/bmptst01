@@ -1,0 +1,46 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="oled_cleardisplay" id="28" x="12" y="12">
+    <next>
+      <block type="oled_setcursor" id="45" inline="true">
+        <value name="STARTX">
+          <block type="math_number" id="52">
+            <field name="NUM">10</field>
+          </block>
+        </value>
+        <value name="STARTY">
+          <block type="math_number" id="53">
+            <field name="NUM">10</field>
+          </block>
+        </value>
+        <next>
+          <block type="multimedia_displaybmp" id="58">
+            <field name="BMP">_2block4</field>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="oled_cleardisplay" id="28" x="12" y="12">
+    <next>
+      <block type="oled_setcursor" id="45" inline="true">
+        <value name="STARTX">
+          <block type="math_number" id="52">
+            <field name="NUM">10</field>
+          </block>
+        </value>
+        <value name="STARTY">
+          <block type="math_number" id="53">
+            <field name="NUM">10</field>
+          </block>
+        </value>
+        <next>
+          <block type="multimedia_displaybmp" id="58">
+            <field name="BMP">_2block4</field>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>
