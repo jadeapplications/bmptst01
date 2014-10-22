@@ -1,14 +1,14 @@
 bmptst01
 ========
 
-Display a bitmap using Scratch.
+Display a bitmap.
 
 ### Project Information
 ```
 Type              : Scratch
 Version           : 01.0
 Author            : myke predko
-Firmware          : 41
+Firmware          : 42
 ```
 
 ### Release History:
